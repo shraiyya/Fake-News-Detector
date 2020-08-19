@@ -5,7 +5,7 @@ Fake news Detection using TfidfVectorizer
 - **IDF** - IDF is a measure of how significant a term is in the entire corpus.
 - **TfidfVectorizer** - Transforms text to feature vectors that can be used as input to estimator. 
 - **Passive Agressive classiﬁer**-The passive-aggressive algorithms are a family of algorithms for large-scale learning.
-- The libaries used are :
+- The libraries used are :
   - Numpy
   - Pandas
   - Scikit Learn
